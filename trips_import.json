@@ -1,0 +1,36 @@
+[
+  {
+    "name": "European Grand Tour",
+    "startDate": "2025-07-01",
+    "endDate": "2025-07-30",
+    "description": "A month-long journey across Europe's iconic cities.",
+    "destinations": [
+      {
+        "name": "Eiffel Tower",
+        "location": "Paris, France",
+        "arrivalDate": "2025-07-03",
+        "departureDate": "2025-07-07"
+      },
+      {
+        "name": "Colosseum",
+        "location": "Rome, Italy",
+        "arrivalDate": "2025-07-10",
+        "departureDate": "2025-07-14"
+      }
+    ]
+  },
+  {
+    "name": "Southeast Asian Adventure",
+    "startDate": "2026-01-10",
+    "endDate": "2026-01-25",
+    "description": "Discovering the beauty of Southeast Asia.",
+    "destinations": [
+      {
+        "name": "Angkor Wat",
+        "location": "Siem Reap, Cambodia",
+        "arrivalDate": "2026-01-12",
+        "departureDate": "2026-01-15"
+      }
+    ]
+  }
+]
